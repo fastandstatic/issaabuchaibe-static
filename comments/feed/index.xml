@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Issa Abuchaibe	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Instituto de Fisiatría y Rehabilitación Cardiopulmonar</description>
 	<lastBuildDate>Fri, 23 Jun 2023 13:44:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

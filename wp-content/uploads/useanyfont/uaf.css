@@ -1,6 +1,6 @@
 				@font-face {
 					font-family: 'gothambook';
-					src: url('./171202045656GothamBook.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202045656GothamBook.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -8,7 +8,7 @@
 
 						@font-face {
 					font-family: 'gothamlight';
-					src: url('./171202045727GothamLight.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202045727GothamLight.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -16,7 +16,7 @@
 
 						@font-face {
 					font-family: 'gothamroundbook';
-					src: url('./171202045956GothamRoundBook.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202045956GothamRoundBook.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -24,7 +24,7 @@
 
 						@font-face {
 					font-family: 'gothamroundlight';
-					src: url('./171202050111GothamRoundLight.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202050111GothamRoundLight.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -32,7 +32,7 @@
 
 						@font-face {
 					font-family: 'gothamroundmed';
-					src: url('./171202050149GothamRoundMed.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202050149GothamRoundMed.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -40,7 +40,7 @@
 
 						@font-face {
 					font-family: 'gothamroundbold';
-					src: url('./171202051446GothamRoundBold.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/171202051446GothamRoundBold.woff') format('woff');
 					  font-display: auto;
 				}
 

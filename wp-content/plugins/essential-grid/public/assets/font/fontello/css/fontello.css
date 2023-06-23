@@ -3,11 +3,11 @@
 ****************************/
 @font-face {
  font-family: 'eg-font';
-  src: url('./../fonts/egfont.eot?85610117');
-  src: url('./../fonts/egfont.eot?85610117#iefix') format('embedded-opentype'),
-       url('./../fonts/egfont.woff?85610117') format('woff'),
-       url('./../fonts/egfont.ttf?85610117') format('truetype'),
-       url('./../fonts/egfont.svg?85610117#egfont') format('svg');
+  src: url('/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.eot?85610117');
+  src: url('/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.eot?85610117#iefix') format('embedded-opentype'),
+       url('/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.woff?85610117') format('woff'),
+       url('/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.ttf?85610117') format('truetype'),
+       url('/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.svg?85610117#egfont') format('svg');
   font-weight: normal;
   font-style: normal;
 
