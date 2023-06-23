@@ -92,7 +92,7 @@
 	<div  class="wpb_single_image wpb_content_element vc_align_center">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a data-rel="prettyPhoto[rel-385-1267096195]" href="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg" target="_self" class="vc_single_image-wrapper   vc_box_border_grey prettyphoto"><img width="1014" height="601" src="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" srcset="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg 1014w, /wp-content/uploads/2017/12/EMG-fibra_unica-300x178.jpg 300w, /wp-content/uploads/2017/12/EMG-fibra_unica-768x455.jpg 768w" sizes="(max-width: 1014px) 100vw, 1014px" /></a>
+			<a data-rel="prettyPhoto[rel-385-40737676]" href="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg" target="_self" class="vc_single_image-wrapper   vc_box_border_grey prettyphoto"><img width="1014" height="601" src="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" srcset="/wp-content/uploads/2017/12/EMG-fibra_unica.jpg 1014w, /wp-content/uploads/2017/12/EMG-fibra_unica-300x178.jpg 300w, /wp-content/uploads/2017/12/EMG-fibra_unica-768x455.jpg 768w" sizes="(max-width: 1014px) 100vw, 1014px" /></a>
 		</figure>
 	</div>
 </div></div></div></div>
@@ -129,7 +129,7 @@
 	<div  class="wpb_single_image wpb_content_element vc_align_center">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a data-rel="prettyPhoto[rel-361-118863048]" href="/wp-content/uploads/2017/12/FDA_approved.jpg" target="_self" class="vc_single_image-wrapper   vc_box_border_grey prettyphoto"><img width="300" height="214" src="/wp-content/uploads/2017/12/FDA_approved-300x214.jpg" class="vc_single_image-img attachment-medium" alt="" decoding="async" srcset="/wp-content/uploads/2017/12/FDA_approved-300x214.jpg 300w, /wp-content/uploads/2017/12/FDA_approved.jpg 708w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			<a data-rel="prettyPhoto[rel-361-1733189907]" href="/wp-content/uploads/2017/12/FDA_approved.jpg" target="_self" class="vc_single_image-wrapper   vc_box_border_grey prettyphoto"><img width="300" height="214" src="/wp-content/uploads/2017/12/FDA_approved-300x214.jpg" class="vc_single_image-img attachment-medium" alt="" decoding="async" srcset="/wp-content/uploads/2017/12/FDA_approved-300x214.jpg 300w, /wp-content/uploads/2017/12/FDA_approved.jpg 708w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 		</figure>
 	</div>
 </div></div></div></div>
@@ -157,7 +157,7 @@
 
 		</div>
 	</div>
-<div class="img_carousel_holder  owl_side_arrows">	<div class="img_carousel mfp_gallery" id="img_carousel_4239" style="opacity:0;"><div class="img_carousel_item boc_owl_lazy">	<div class="pic ">
+<div class="img_carousel_holder  owl_side_arrows">	<div class="img_carousel mfp_gallery" id="img_carousel_5769" style="opacity:0;"><div class="img_carousel_item boc_owl_lazy">	<div class="pic ">
 								<a href="/wp-content/uploads/2017/12/empresario_benemerito_2.jpg" class="mfp_popup_gal"  target="_self">
 									<img src="/wp-content/uploads/2017/12/empresario_benemerito_2.jpg" alt="" />
 								</a>
@@ -179,7 +179,7 @@
 
 						jQuery(document).ready(function($) {
 							
-							var carousel = jQuery("#img_carousel_4239");
+							var carousel = jQuery("#img_carousel_5769");
 							
 							var args = {
 									items: 				2,
@@ -206,7 +206,7 @@
 										  items:2
 										}
 									},
-									onInitialized: showCarousel_4239
+									onInitialized: showCarousel_5769
 							};
 							
 							carousel.owlCarousel(args);
@@ -223,9 +223,9 @@
 							});
 							
 							/* Show once loaded */
-							function showCarousel_4239() {
+							function showCarousel_5769() {
 								carousel.fadeTo(0,1);
-								$("#img_carousel_4239 .owl-item .boc_owl_lazy").css("opacity","1");
+								$("#img_carousel_5769 .owl-item .boc_owl_lazy").css("opacity","1");
 							}
 						});
 						
