@@ -18,7 +18,7 @@
 	
 		
 
-	<title>Fonoaudiología &#8211; Issa Abuchaibe</title>
+	<title>Ondas de choque &#8211; Nuevo servicio &#8211; Issa Abuchaibe</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//platform-api.sharethis.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -654,8 +654,6 @@ html #dynamic-to-top {
 				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
 			}</style>
 <link rel="stylesheet" id="bsf-Defaults-css" href="/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=6.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="ultimate-style-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.16.17" type="text/css" media="all">
-<link rel="stylesheet" id="ult-btn-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/advanced-buttons.min.css?ver=3.16.17" type="text/css" media="all">
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/libs.min.js?ver=6.2.4" id="fortuna.lib-js"></script>
@@ -666,17 +664,15 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 </script>
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/common.js?ver=6.2.4" id="fortuna.common-js"></script>
 <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#source=googleanalytics-wordpress#product=ga&#038;property=62ddd145c2cb0d00192a0652" id="googleanalytics-platform-sharethis-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.16.17" id="ultimate-vc-params-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.16.17" id="ultimate-custom-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/423">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/posts/6702">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.4">
-<link rel="canonical" href="/servicios/fonoaudiologia/">
-<link rel="shortlink" href="/?p=423">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Ffonoaudiologia%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Ffonoaudiologia%2F#038;format=xml">
+<link rel="canonical" href="/ondas-de-choque-nuevo-servicio/">
+<link rel="shortlink" href="/?p=6702">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fondas-de-choque-nuevo-servicio%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fondas-de-choque-nuevo-servicio%2F#038;format=xml">
 <script type="text/javascript">jQuery(document).ready(function($) {
 				var ult_smooth_speed = 250;
 				var ult_smooth_step = 45;
@@ -719,4 +715,392 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
 					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
 					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
-					if
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">div#powered {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.politicas {
+    font-size: 16px;
+}</style>
+		<noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+	
+</head>
+
+<body class="post-template-default single single-post postid-6702 single-format-standard wpb-js-composer js-comp-ver-5.3 vc_responsive">
+
+	
+
+	
+	
+  <!-- Page Wrapper::START -->
+  <div id="wrapper" class="full_width_wrapper page_title_bgr custom_bgr responsive ">
+  
+	<!-- Header::START -->
+		
+	<header id="header" class="has_subheader 
+										sticky_header					">
+		
+		
+				<!-- SubHeader -->
+		<div class="full_header">
+			<div id="subheader" class="container">	
+				<div class="section">
+						
+								
+						<div class="header_contacts ">
+															<div class="header_contact_item">
+<span class="icon icon-mail2"></span> <span class="mail_subHeader"> citas@issaabuchaibe.com        -         <i class="fa fa-clock-o"></i> Lunes a Viernes de 7:00 am a 6:00 pm y Sábado 7:00 am a 12:00 pm </span> </div>
+								
+															<div class="header_contact_item">
+<span class="icon icon-mobile3"></span> <span class="phone_subHeader">Reserva tu cita: (605) 3578999 </span>
+</div>
+													</div>
+						
+										
+					
+					
+				</div>	
+			</div>	
+		</div>
+				
+		
+		<div class="rel_pos">
+		
+			<div class="container">
+			
+				<div class="section rel_pos ">
+			
+											
+					<div id="logo">
+											<div class="logo_img ">
+								<a href="/" title="Issa Abuchaibe" rel="home">
+									<img src="/wp-content/uploads/2017/09/IssaAbucgauive_logo.png" alt="Issa Abuchaibe">
+																	</a>
+							</div>
+								
+					</div>
+
+					<div id="mobile_menu_toggler">
+					  <div id="m_nav_menu" class="m_nav">
+						<div class="m_nav_ham button_closed" id="m_ham_1"></div>
+						<div class="m_nav_ham button_closed" id="m_ham_2"></div>
+						<div class="m_nav_ham button_closed" id="m_ham_3"></div>
+					  </div>
+					</div>
+
+				
+					<div class="custom_menu_4 ">	
+					<div id="menu" class="menu-issa-web-container"><ul>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="/conocenos/">Conócenos</a></li>
+<li id="menu-item-623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-623">
+<a href="#">Servicios<span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="/servicios/medicina-fisica-y-rehabilitacion-fisiatria/">Medicina Física y Rehabilitación (Fisiatría)</a></li>
+	<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
+	<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/">Rehabilitación Pulmonar</a></li>
+	<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
+	<li id="menu-item-6793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
+	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
+	<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
+	<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
+	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
+	<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/servicios/traccion-digitalizada-de-columna-accu-spina/">Tracción Digitalizada De Columna (Accu Spina)</a></li>
+	<li id="menu-item-448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="/servicios/procedimientos/">Procedimientos</a></li>
+	<li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="/servicios/odontologia/">Odontología</a></li>
+</ul>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="/pacientes/">Pacientes</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="/noticias/">Noticias</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="/contactanos/">Contáctanos</a></li>
+<li id="menu-item-8267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267"><a href="https://forms.gle/uSfs7oGkYsXwFJLh6">Solicite su cita</a></li>
+</ul></div>					</div>
+					
+					
+
+		
+				</div>
+				
+								
+			
+			
+			</div>
+		</div>
+
+	
+			
+		<div id="mobile_menu">
+			<ul>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="/conocenos/">Conócenos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-623">
+<a href="#">Servicios<span></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="/servicios/medicina-fisica-y-rehabilitacion-fisiatria/">Medicina Física y Rehabilitación (Fisiatría)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/">Rehabilitación Pulmonar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/servicios/traccion-digitalizada-de-columna-accu-spina/">Tracción Digitalizada De Columna (Accu Spina)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="/servicios/procedimientos/">Procedimientos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="/servicios/odontologia/">Odontología</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="/pacientes/">Pacientes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="/noticias/">Noticias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="/contactanos/">Contáctanos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267"><a href="https://forms.gle/uSfs7oGkYsXwFJLh6">Solicite su cita</a></li>
+</ul>		</div>
+	
+	</header>
+		<!-- Header::END -->
+	
+	<!-- Page content::START -->
+	<div class="content_body">
+	
+					<div class="full_container_page_title " style="padding: 20px 0;">	
+					<div class="container">		
+						<div class="section no_bm">
+								<div class="breadcrumb breadcrumb_right">
+<a class="first_bc" href="/"><span>Home</span></a><a href="/category/noticias/" title="Ondas de choque &#8211; Nuevo servicio"><span>Noticias</span></a> <a class="last_bc" href="/ondas-de-choque-nuevo-servicio/" title="Ondas de choque &#8211; Nuevo servicio"><span>Ondas de choque &#8211; Nuevo servicio</span></a>
+</div>								
+								<div class="page_heading"><h1>
+								Ondas de choque &#8211; Nuevo servicio								</h1></div>	
+						</div>
+					</div>
+				</div>
+					
+<!-- Post -->
+<div class="post-6702 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias" id="post-6702">
+	<div class="container">
+		<div class="section">
+			<div class="post_content col span_3_of_4">
+					
+					
+							
+					<div class="section">
+								
+						
+												<div class="pic">
+								<a href="/wp-content/uploads/2022/11/Grupo-15.png" class="mfp_popup" title="Ondas de choque - Nuevo servicio">
+									<img src="/wp-content/uploads/2022/11/Grupo-15.png" alt=" "><div class="img_overlay"><span class="icon_zoom"></span></div>
+								</a>
+							</div>
+
+							<div class="h20"></div>	
+			
+								
+		
+								
+			
+			
+							
+			
+						<p class="post_meta">
+							<span class="calendar_date">2022-11-04</span>
+							<span class="author"><a href="/author/eme/">By  Eme Agencia Digital</a></span>
+							<span class="comments no-border-comments"><span class="comments-link">Comments are Off</span></span>
+											</p>
+					
+						<div class="post_description">
+						<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-family: gothamroundmed; color: #0070bb; font-size: 18pt;"><strong>TERAPIA DE ONDAS DE CHOQUE</strong></span></p>
+<p style="text-align: center;"><span style="font-family: gothamroundmed; color: #000000; font-size: 18pt;">TRATAMIENTO ALTAMENTE EFECTIVO DEL DOLOR</span></p>
+<p style="text-align: center;"><span style="font-family: gothambook;">La terapia de Ondas de Choque es la nueva solución no invasiva para el dolor crónico musculo-esquelético. La terapia de Ondas de Choque extracorpórea se utiliza con mayor frecuencia en fisioterapia, ortopedia y medicina deportiva. Las aplicaciones son, en su mayoría, asociadas con el tratamiento de trastornos crónicos de tendones y musculares, dolor de espalda y cervical.</span></p>
+<p style="text-align: center;"><span style="font-family: gothambook;">La mayoría de las indicaciones comunes incluyen: hombro doloroso, epicondilitis, dolor lumbar, dolor en el tendón de Aquiles, tendinitis rotuliana y puntos gatillo. Durante la terapia de Ondas de Choque, una onda acústica de alta intensidad interactúa con los tejidos del cuerpo. Esto conduce a una cascada de efectos beneficiosos, incluyendo el crecimiento interno neovascular, la reversión de la inflamación crónica, la estimulación de colágeno y la disolución de la acumulación de calcio. </span><br>
+<span style="font-family: gothambook;">La estimulación de estos mecanismos biológicos crea un entorno de curación óptima. A medida que la zona lesionada se devuelve a la normalidad, se restaura la funcionalidad y el dolor se alivia.</span></p>
+<p style="text-align: center;"><span style="font-family: gothambook;">El equipo de terapia de Ondas de Choque BTL es la unidad de Ondas de Choque más potente y compacta del mercado. Se suministra con un aplicador ergonómico con una vida útil muy larga.</span></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="587" height="734" src="/wp-content/uploads/2022/11/ONDA9.png" class="vc_single_image-img attachment-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/11/ONDA9.png 587w, /wp-content/uploads/2022/11/ONDA9-240x300.png 240w" sizes="(max-width: 587px) 100vw, 587px"></div>
+		</figure>
+	</div>
+</div></div></div></div>
+						</div>
+
+						<!-- Post End -->
+
+			
+			</div>
+								
+			
+			
+			
+				
+
+			<!-- If comments are closed. -->
+		<p class="no-comments">Comments are closed.</p>
+
+	
+
+
+			
+			</div>		<!-- Sidebar -->
+		<div id="sidebar" class="col span_1_of_4 sidebar">
+		
+		<div id="media_image-3" class="widget widget_media_image"><img width="300" height="400" src="/wp-content/uploads/2017/09/Group-174.png" class="image wp-image-735  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;" srcset="/wp-content/uploads/2017/09/Group-174.png 300w, /wp-content/uploads/2017/09/Group-174-225x300.png 225w" sizes="(max-width: 300px) 100vw, 300px"></div>
+<div id="media_image-2" class="widget widget_media_image"><a href="http://issaabuchaibe.com/contactanos/"><img width="300" height="400" src="/wp-content/uploads/2017/09/Group-173.png" class="image wp-image-733  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;" srcset="/wp-content/uploads/2017/09/Group-173.png 300w, /wp-content/uploads/2017/09/Group-173-225x300.png 225w" sizes="(max-width: 300px) 100vw, 300px"></a></div>
+<div id="media_image-4" class="widget widget_media_image"><img width="300" height="400" src="/wp-content/uploads/2017/09/Group-175.png" class="image wp-image-734  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;" srcset="/wp-content/uploads/2017/09/Group-175.png 300w, /wp-content/uploads/2017/09/Group-175-225x300.png 225w" sizes="(max-width: 300px) 100vw, 300px"></div>	
+			
+		</div>
+		<!-- Sidebar :: END -->
+		
+		</div>
+	</div>
+</div>
+<!-- Post :: END -->	  
+
+	
+
+	</div>
+	<!-- Page content::END -->
+
+		<!-- Footer::Start -->
+		<div id="footer" class="">
+			
+
+						
+				<div class="container">	
+					<div class="section">
+				
+					
+						<div class="col span_1_of_4">
+						
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="271" data-id="8307" src="/wp-content/uploads/2024/04/Issa-Abuchaibe-1024x271.png" alt="" class="wp-image-8307" srcset="/wp-content/uploads/2024/04/Issa-Abuchaibe-1024x271.png 1024w, /wp-content/uploads/2024/04/Issa-Abuchaibe-300x79.png 300w, /wp-content/uploads/2024/04/Issa-Abuchaibe-768x203.png 768w, /wp-content/uploads/2024/04/Issa-Abuchaibe.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+</figure>
+	
+						</div>
+
+					
+						<div class="col span_1_of_4">
+						<div class="textwidget custom-html-widget"><div class="sedes_foot">
+	<ul>
+		<li>Cra. 51B Nro. 94 - 334, Piso 1 </li>
+		<li>PBX: (605) 357 89 99</li>			
+		<li>Barranquilla, Colombia</li>
+	</ul>
+</div></div>	
+						</div>
+
+					
+						<div class="col span_1_of_4">
+						<div class="textwidget custom-html-widget"><div class="sedes_foot">
+	<ul>
+		<li>Cll. 45 Nro. 10D - 08 Esq.</li>
+		<li>PBX: (605) 380 06 68</li>
+		<li>Barranquilla, Colombia</li>
+	</ul>
+</div></div>	
+						</div>
+
+					
+						<div class="col span_1_of_4">
+						
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="271" data-id="8308" src="/wp-content/uploads/2024/04/Issa-Abuchaibe-1-1024x271.png" alt="" class="wp-image-8308" srcset="/wp-content/uploads/2024/04/Issa-Abuchaibe-1-1024x271.png 1024w, /wp-content/uploads/2024/04/Issa-Abuchaibe-1-300x79.png 300w, /wp-content/uploads/2024/04/Issa-Abuchaibe-1-768x203.png 768w, /wp-content/uploads/2024/04/Issa-Abuchaibe-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+</figure>
+	
+						</div>
+
+									
+					</div> 
+				</div>
+			
+						
+			<div class="footer_btm">
+				<div class="container">
+					<div class="footer_btm_inner">
+					
+										
+						<div id="powered">
+<div class="copyright"><p>ISSA ABUCHAIBE © 2018 | Desarrollado por <a href="http://e-me.co/" target="blank">E-me Agencia Digital</a></p></div>
+<div class="politicas"><a href="/wp-content/uploads/2024/03/POLIiTICA-DE-TRATAMIENTO-DE-DATOS-INSTITUTO-230324.pdf" target="blank">Politicas de tratamiento de datos</a></div>
+</div>
+					</div>
+				</div>
+			</div>
+	  </div>
+	  <!-- Footer::END -->
+  
+	
+  
+  </div>
+  <!-- Page wrapper::END -->
+  
+  
+  
+		<script>window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';</script>
+				<script>var ajaxRevslider;
+			function rsCustomAjaxContentLoadingFunction() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content	= '';
+					var data	= {
+						action:			'revslider_ajax_call_front',
+						client_action:	'get_slider_html',

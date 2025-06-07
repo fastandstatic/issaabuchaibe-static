@@ -18,7 +18,7 @@
 	
 		
 
-	<title>Conócenos &#8211; Issa Abuchaibe</title>
+	<title>Rehabilitación Pulmonar &#8211; Issa Abuchaibe</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//platform-api.sharethis.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -655,9 +655,6 @@ html #dynamic-to-top {
 			}</style>
 <link rel="stylesheet" id="bsf-Defaults-css" href="/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=6.2.4" type="text/css" media="all">
 <link rel="stylesheet" id="ultimate-style-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.16.17" type="text/css" media="all">
-<link rel="stylesheet" id="ult-slick-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/slick.min.css?ver=3.16.17" type="text/css" media="all">
-<link rel="stylesheet" id="ult-icons-css" href="/wp-content/plugins/Ultimate_VC_Addons/modules/../assets/css/icons.css?ver=3.16.17" type="text/css" media="all">
-<link rel="stylesheet" id="ultimate-animate-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/animate.min.css?ver=3.16.17" type="text/css" media="all">
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/libs.min.js?ver=6.2.4" id="fortuna.lib-js"></script>
@@ -669,18 +666,15 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/common.js?ver=6.2.4" id="fortuna.common-js"></script>
 <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#source=googleanalytics-wordpress#product=ga&#038;property=62ddd145c2cb0d00192a0652" id="googleanalytics-platform-sharethis-js"></script>
 <script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.16.17" id="ultimate-vc-params-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/slick.min.js?ver=3.16.17" id="ult-slick-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.16.17" id="ultimate-appear-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/slick-custom.min.js?ver=3.16.17" id="ult-slick-custom-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/11">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/415">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.4">
-<link rel="canonical" href="/conocenos/">
-<link rel="shortlink" href="/?p=11">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fconocenos%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fconocenos%2F#038;format=xml">
+<link rel="canonical" href="/servicios/rehabilitacion-pulmonar/">
+<link rel="shortlink" href="/?p=415">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Frehabilitacion-pulmonar%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Frehabilitacion-pulmonar%2F#038;format=xml">
 <script type="text/javascript">jQuery(document).ready(function($) {
 				var ult_smooth_speed = 250;
 				var ult_smooth_step = 45;
@@ -714,4 +708,258 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
 				try {
 					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">div#powered {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.politicas {
+    font-size: 16px;
+}</style>
+		<style type="text/css" data-type="vc_custom-css">.services_details .accordion {
+    font-size: 20px;
+    line-height: 20px;
+    color: #0070bb !important;
+    text-transform: none;
+}
+html .services_details .acc_item {
+    margin: 4px auto !important;
+    width: 48% !important;
+}
+.services_details .accordion_content {
+    color: #0070bb !important;
+}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1519224275472{margin-top: 0px !important;}.vc_custom_1519226052808{padding-top: 45px !important;padding-bottom: 45px !important;}.vc_custom_1519242835720{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 230px !important;padding-bottom: 230px !important;}.vc_custom_1520000619744{padding-top: 60px !important;}</style>
+<noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+	
+</head>
+
+<body class="page-template-default page page-id-415 page-child parent-pageid-13 wpb-js-composer js-comp-ver-5.3 vc_responsive">
+
+	
+
+	
+	
+  <!-- Page Wrapper::START -->
+  <div id="wrapper" class="full_width_wrapper page_title_bgr custom_bgr responsive ">
+  
+	<!-- Header::START -->
+		
+	<header id="header" class="has_subheader 
+										sticky_header					">
+		
+		
+				<!-- SubHeader -->
+		<div class="full_header">
+			<div id="subheader" class="container">	
+				<div class="section">
 						
+								
+						<div class="header_contacts ">
+															<div class="header_contact_item">
+<span class="icon icon-mail2"></span> <span class="mail_subHeader"> citas@issaabuchaibe.com        -         <i class="fa fa-clock-o"></i> Lunes a Viernes de 7:00 am a 6:00 pm y Sábado 7:00 am a 12:00 pm </span> </div>
+								
+															<div class="header_contact_item">
+<span class="icon icon-mobile3"></span> <span class="phone_subHeader">Reserva tu cita: (605) 3578999 </span>
+</div>
+													</div>
+						
+										
+					
+					
+				</div>	
+			</div>	
+		</div>
+				
+		
+		<div class="rel_pos">
+		
+			<div class="container">
+			
+				<div class="section rel_pos ">
+			
+											
+					<div id="logo">
+											<div class="logo_img ">
+								<a href="/" title="Issa Abuchaibe" rel="home">
+									<img src="/wp-content/uploads/2017/09/IssaAbucgauive_logo.png" alt="Issa Abuchaibe">
+																	</a>
+							</div>
+								
+					</div>
+
+					<div id="mobile_menu_toggler">
+					  <div id="m_nav_menu" class="m_nav">
+						<div class="m_nav_ham button_closed" id="m_ham_1"></div>
+						<div class="m_nav_ham button_closed" id="m_ham_2"></div>
+						<div class="m_nav_ham button_closed" id="m_ham_3"></div>
+					  </div>
+					</div>
+
+				
+					<div class="custom_menu_4 ">	
+					<div id="menu" class="menu-issa-web-container"><ul>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="/conocenos/">Conócenos</a></li>
+<li id="menu-item-623" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-623">
+<a href="#">Servicios<span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="/servicios/medicina-fisica-y-rehabilitacion-fisiatria/">Medicina Física y Rehabilitación (Fisiatría)</a></li>
+	<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
+	<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-415 current_page_item menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/" aria-current="page">Rehabilitación Pulmonar</a></li>
+	<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
+	<li id="menu-item-6793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
+	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
+	<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
+	<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
+	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
+	<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/servicios/traccion-digitalizada-de-columna-accu-spina/">Tracción Digitalizada De Columna (Accu Spina)</a></li>
+	<li id="menu-item-448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="/servicios/procedimientos/">Procedimientos</a></li>
+	<li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="/servicios/odontologia/">Odontología</a></li>
+</ul>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="/pacientes/">Pacientes</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="/noticias/">Noticias</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="/contactanos/">Contáctanos</a></li>
+<li id="menu-item-8267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267"><a href="https://forms.gle/uSfs7oGkYsXwFJLh6">Solicite su cita</a></li>
+</ul></div>					</div>
+					
+					
+
+		
+				</div>
+				
+								
+			
+			
+			</div>
+		</div>
+
+	
+			
+		<div id="mobile_menu">
+			<ul>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="/conocenos/">Conócenos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-623">
+<a href="#">Servicios<span></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="/servicios/medicina-fisica-y-rehabilitacion-fisiatria/">Medicina Física y Rehabilitación (Fisiatría)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-415 current_page_item menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/" aria-current="page">Rehabilitación Pulmonar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/servicios/traccion-digitalizada-de-columna-accu-spina/">Tracción Digitalizada De Columna (Accu Spina)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="/servicios/procedimientos/">Procedimientos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="/servicios/odontologia/">Odontología</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="/pacientes/">Pacientes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="/noticias/">Noticias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="/contactanos/">Contáctanos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267"><a href="https://forms.gle/uSfs7oGkYsXwFJLh6">Solicite su cita</a></li>
+</ul>		</div>
+	
+	</header>
+		<!-- Header::END -->
+	
+	<!-- Page content::START -->
+	<div class="content_body">
+	
+	<div class="h20"></div>
+
+	<!-- Page template :: START -->
+	<div class="post-415 page type-page status-publish hentry" id="post-415">
+		<div class="container">
+			<div class="section">
+				<div class="post_content">
+								<div class="vc_row wpb_row vc_row-fluid vc_custom_1519224275472"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+			<!-- START Rehabilitacion Pulmonar REVOLUTION SLIDER 6.6.5 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_10_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_10_1" style="" data-version="6.6.5">
+					<rs-slides style="overflow: hidden; position: absolute;">
+						<rs-slide style="position: absolute;" data-key="rs-37" data-title="Slide" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;" class="with-overlay">
+							<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="ALF_8047" width="1920" height="1282" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//issaabuchaibe.fastandstatic.com/wp-content/uploads/2017/09/ALF_8047.jpg" data-parallax="8" data-no-retina>
+<!---->						</rs-slide>
+					</rs-slides>
+					<rs-static-layers class="rs-stl-visible"><!--
+
+							--><rs-layer id="slider-10-slide-9-layer-1" class="gothamroundbold rs-layer-static" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:c;xo:-7px;y:c;yo:-47px;" data-text="s:40;l:50;a:inherit;" data-onslides="s:1;" data-frame_1="sR:10;" data-frame_999="o:0;st:w;sR:3690;" style="z-index:5;font-family:'Open Sans';text-transform:uppercase;">Rehabilitación Pulmonar 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-10-slide-9-layer-2" class="tp-shape tp-shapewrapper rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:9px;y:c;yo:22px;" data-text="a:inherit;" data-dim="w:120px;h:4px;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:6;background-color:#39b549;"> 
+							</rs-layer><!--
+
+							--><rs-layer id="d" class="tp-shape tp-shapewrapper rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:908px;y:458px;" data-text="fw:300;a:inherit;" data-dim="w:5px;h:5px;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:8;"> 
+							</rs-layer><!--
+
+							--><a id="slider-10-slide-9-layer-6" class="rs-layer rev-scroll-btn rs-layer-static" href="#d" target="_self" data-type="button" data-color="#ffffff" data-xy="x:c;xo:22px;y:c;yo:122px;" data-text="fw:300;a:inherit;" data-dim="w:35px;h:55px;" data-rsp_bd="off" data-onslides="s:1;" data-border="bos:solid;boc:rgb(255, 255, 255);bow:3px,3px,3px,3px;bor:23px,23px,23px,23px;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:9;background-color:rgba(0,0,0,0);font-family:'Open Sans';cursor:pointer;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">							
+							<span>
+							</span>							
+						 
+							</a><!--
+					--></rs-static-layers>
+				</rs-module>
+				<script>setREVStartSize({c: 'rev_slider_10_1',rl:[1240,1024,778,480],el:[600],gw:[1920],gh:[600],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider101"]!==undefined) {window.RS_MODULES.modules["revslider101"].once = false;window.revapi10 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1519226052808"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  text_services">
+		<div class="wpb_wrapper">
+			<p>La Rehabilitación pulmonar es un programa para personas con enfermedades pulmonares crónicas como el EPOC, bronquitis crónica, asma, bronquiectasia y enfermedad intersticial pulmonar. La m
