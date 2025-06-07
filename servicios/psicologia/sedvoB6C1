@@ -18,7 +18,7 @@
 	
 		
 
-	<title>Rehabilitación Pulmonar &#8211; Issa Abuchaibe</title>
+	<title>Psicología &#8211; Issa Abuchaibe</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//platform-api.sharethis.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -655,6 +655,7 @@ html #dynamic-to-top {
 			}</style>
 <link rel="stylesheet" id="bsf-Defaults-css" href="/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=6.2.4" type="text/css" media="all">
 <link rel="stylesheet" id="ultimate-style-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.16.17" type="text/css" media="all">
+<link rel="stylesheet" id="ult-btn-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/advanced-buttons.min.css?ver=3.16.17" type="text/css" media="all">
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/libs.min.js?ver=6.2.4" id="fortuna.lib-js"></script>
@@ -666,15 +667,16 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 <script type="text/javascript" src="/wp-content/themes/fortuna/js/common.js?ver=6.2.4" id="fortuna.common-js"></script>
 <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#source=googleanalytics-wordpress#product=ga&#038;property=62ddd145c2cb0d00192a0652" id="googleanalytics-platform-sharethis-js"></script>
 <script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.16.17" id="ultimate-vc-params-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.16.17" id="ultimate-custom-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/415">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/425">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.4">
-<link rel="canonical" href="/servicios/rehabilitacion-pulmonar/">
-<link rel="shortlink" href="/?p=415">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Frehabilitacion-pulmonar%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Frehabilitacion-pulmonar%2F#038;format=xml">
+<link rel="canonical" href="/servicios/psicologia/">
+<link rel="shortlink" href="/?p=425">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Fpsicologia%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fservicios%2Fpsicologia%2F#038;format=xml">
 <script type="text/javascript">jQuery(document).ready(function($) {
 				var ult_smooth_speed = 250;
 				var ult_smooth_step = 45;
@@ -759,25 +761,12 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"\/wp-content\/them
 .politicas {
     font-size: 16px;
 }</style>
-		<style type="text/css" data-type="vc_custom-css">.services_details .accordion {
-    font-size: 20px;
-    line-height: 20px;
-    color: #0070bb !important;
-    text-transform: none;
-}
-html .services_details .acc_item {
-    margin: 4px auto !important;
-    width: 48% !important;
-}
-.services_details .accordion_content {
-    color: #0070bb !important;
-}</style>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1519224275472{margin-top: 0px !important;}.vc_custom_1519226052808{padding-top: 45px !important;padding-bottom: 45px !important;}.vc_custom_1519242835720{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 230px !important;padding-bottom: 230px !important;}.vc_custom_1520000619744{padding-top: 60px !important;}</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1519224275472{margin-top: 0px !important;}.vc_custom_1519226052808{padding-top: 45px !important;padding-bottom: 45px !important;}.vc_custom_1519229503860{padding-top: 230px !important;padding-bottom: 230px !important;}.vc_custom_1519228391292{padding-top: 45px !important;padding-bottom: 45px !important;}.vc_custom_1710452665961{margin-top: 4px !important;margin-right: 4px !important;margin-bottom: 4px !important;margin-left: 4px !important;padding-top: 4px !important;padding-right: 4px !important;padding-bottom: 4px !important;padding-left: 4px !important;}</style>
 <noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
 	
 </head>
 
-<body class="page-template-default page page-id-415 page-child parent-pageid-13 wpb-js-composer js-comp-ver-5.3 vc_responsive">
+<body class="page-template-default page page-id-425 page-child parent-pageid-13 wpb-js-composer js-comp-ver-5.3 vc_responsive">
 
 	
 
@@ -850,13 +839,13 @@ html .services_details .acc_item {
 	<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
 	<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
 	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
-	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-415 current_page_item menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/" aria-current="page">Rehabilitación Pulmonar</a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/">Rehabilitación Pulmonar</a></li>
 	<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
 	<li id="menu-item-6793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
 	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
 	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
 	<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
-	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-425 current_page_item menu-item-449"><a href="/servicios/psicologia/" aria-current="page">Psicología</a></li>
 	<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
 	<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
 	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
@@ -894,13 +883,13 @@ html .services_details .acc_item {
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="/servicios/electromiografia-y-neuroconducciones/">Electromiografía y Neuroconducciones</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="/servicios/potenciales-evocados/">Potenciales Evocados</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="/servicios/rehabilitacion-cardiaca/">Rehabilitación Cardíaca</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-415 current_page_item menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/" aria-current="page">Rehabilitación Pulmonar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="/servicios/rehabilitacion-pulmonar/">Rehabilitación Pulmonar</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/servicios/habilitacion-infantil/">Habilitación Infantil</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6793"><a href="/onda-de-choque-radial/">Ondas de Choque Radiales</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="/servicios/terapia-fisica/">Terapia Física</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="/servicios/terapia-ocupacional/">Terapia Ocupacional</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="/servicios/fonoaudiologia/">Fonoaudiología</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="/servicios/psicologia/">Psicología</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-425 current_page_item menu-item-449"><a href="/servicios/psicologia/" aria-current="page">Psicología</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="/servicios/hidroterapia/">Hidroterapia</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="/servicios/fisioterapia-respiratoria/">Fisioterapia Respiratoria</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="/servicios/toxina-botulinica-terapeutica/">Toxina Botulínica Terapéutica</a></li>
@@ -918,48 +907,4 @@ html .services_details .acc_item {
 	</header>
 		<!-- Header::END -->
 	
-	<!-- Page content::START -->
-	<div class="content_body">
-	
-	<div class="h20"></div>
-
-	<!-- Page template :: START -->
-	<div class="post-415 page type-page status-publish hentry" id="post-415">
-		<div class="container">
-			<div class="section">
-				<div class="post_content">
-								<div class="vc_row wpb_row vc_row-fluid vc_custom_1519224275472"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
-			<!-- START Rehabilitacion Pulmonar REVOLUTION SLIDER 6.6.5 --><p class="rs-p-wp-fix"></p>
-			<rs-module-wrap id="rev_slider_10_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
-				<rs-module id="rev_slider_10_1" style="" data-version="6.6.5">
-					<rs-slides style="overflow: hidden; position: absolute;">
-						<rs-slide style="position: absolute;" data-key="rs-37" data-title="Slide" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;" class="with-overlay">
-							<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="ALF_8047" width="1920" height="1282" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//issaabuchaibe.fastandstatic.com/wp-content/uploads/2017/09/ALF_8047.jpg" data-parallax="8" data-no-retina>
-<!---->						</rs-slide>
-					</rs-slides>
-					<rs-static-layers class="rs-stl-visible"><!--
-
-							--><rs-layer id="slider-10-slide-9-layer-1" class="gothamroundbold rs-layer-static" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:c;xo:-7px;y:c;yo:-47px;" data-text="s:40;l:50;a:inherit;" data-onslides="s:1;" data-frame_1="sR:10;" data-frame_999="o:0;st:w;sR:3690;" style="z-index:5;font-family:'Open Sans';text-transform:uppercase;">Rehabilitación Pulmonar 
-							</rs-layer><!--
-
-							--><rs-layer id="slider-10-slide-9-layer-2" class="tp-shape tp-shapewrapper rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:9px;y:c;yo:22px;" data-text="a:inherit;" data-dim="w:120px;h:4px;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:6;background-color:#39b549;"> 
-							</rs-layer><!--
-
-							--><rs-layer id="d" class="tp-shape tp-shapewrapper rs-layer-static" data-type="shape" data-rsp_ch="on" data-xy="x:908px;y:458px;" data-text="fw:300;a:inherit;" data-dim="w:5px;h:5px;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:8;"> 
-							</rs-layer><!--
-
-							--><a id="slider-10-slide-9-layer-6" class="rs-layer rev-scroll-btn rs-layer-static" href="#d" target="_self" data-type="button" data-color="#ffffff" data-xy="x:c;xo:22px;y:c;yo:122px;" data-text="fw:300;a:inherit;" data-dim="w:35px;h:55px;" data-rsp_bd="off" data-onslides="s:1;" data-border="bos:solid;boc:rgb(255, 255, 255);bow:3px,3px,3px,3px;bor:23px,23px,23px,23px;" data-frame_999="o:0;st:w;sR:3700;" style="z-index:9;background-color:rgba(0,0,0,0);font-family:'Open Sans';cursor:pointer;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">							
-							<span>
-							</span>							
-						 
-							</a><!--
-					--></rs-static-layers>
-				</rs-module>
-				<script>setREVStartSize({c: 'rev_slider_10_1',rl:[1240,1024,778,480],el:[600],gw:[1920],gh:[600],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider101"]!==undefined) {window.RS_MODULES.modules["revslider101"].once = false;window.revapi10 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}</script>
-			</rs-module-wrap>
-			<!-- END REVOLUTION SLIDER -->
-</div></div></div></div></div>
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1519226052808"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element  text_services">
-		<div class="wpb_wrapper">
-			<p>La Rehabilitación pulmonar es un programa para personas con enfermedades pulmonares crónicas como el EPOC, bronquitis crónica, asma, bronquiectasia y enfermedad intersticial pulmonar. La m
+	<!-- Page content:
